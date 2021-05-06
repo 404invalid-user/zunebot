@@ -8,6 +8,6 @@
     "imgurl": "http://zune.tk/img/zune.png",
 
     "zuneAddUrl": "http://zune.tk/zunebot/addbot.html",
-
-    "badWords": ["discord.gg", "invite.gg", "discord.link", "whoe", "w h o e" , "w-h-o-e", "hoe", "h o e", "h-o-e", "dick", "d i c k", "d-i-c-k","twat", "fuck", "cunt", "niga", "nigga"]
+    //add your own
+    "badWords": [""]
 }
